@@ -9,5 +9,5 @@ public class Company :Entity
     public  DateTime DateTimeStart { get; set; }
     public  DateTime DateTimeEnd { get; set; }
 
-    public virtual ICollection<List<Product>> Products { get; set; }
+    public virtual ICollection<Product> Products { get; set; }
 }

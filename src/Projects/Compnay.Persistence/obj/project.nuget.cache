@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ex6VK07i9eFDjCait3kBirXpTeFuLdBlbLOqECbr/aq/zDbAUjDeGA3fTiB0+UTBOdEWsAEVHiuMUs6JRjbu+Q==",
+  "dgSpecHash": "lenk5bkeSmxraMnj1vDajUc7KtM7oE75OJn+fEJbVkSmYvfWxSJcwFS3FBJEOK27/brg4Bu9xA+35wAGXugOVA==",
   "success": true,
-  "projectFilePath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Compnay.Persistence/Compnay.Persistence.csproj",
+  "projectFilePath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Compnay.Persistence/Compnay.Persistence.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

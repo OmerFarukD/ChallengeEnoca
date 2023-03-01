@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ly5RibVNoK5HQZlKjE2QtR++kWtobjmU3VokeO0SGjgNEtZjeoq/wmji4njsJ4NkboqBeSa21tn0OfahCxq2og==",
+  "dgSpecHash": "Xlc6fXV37fan+3tF3PSGlIrZgqrH87cPFiqR34h3tHLpLId89OEoWFvFrcD1mJ3zC/o2LhqwM4Z1kn9SFZcmoA==",
   "success": true,
-  "projectFilePath": "/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj",
+  "projectFilePath": "/home/user/Downloads/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

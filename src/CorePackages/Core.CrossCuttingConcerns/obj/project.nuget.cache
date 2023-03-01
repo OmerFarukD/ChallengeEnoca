@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3BBOD7RmimZ7xasUdzviSL6XBJbvyydAIGiDPsqhzboxQ0pTd7XXALqzyxfBLFFM+oHlbmeZdeD5NtoHo0WS7w==",
+  "dgSpecHash": "X0YMEv12rzqPYJlJGA50O++mIzCRq8FuFiyNgRwWeC00C2km/d49z/qHiDRtOEZNB9TpJfLRq59dNo160iQi+g==",
   "success": true,
-  "projectFilePath": "/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/Core.CrossCuttingConcerns.csproj",
+  "projectFilePath": "/home/user/Downloads/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/Core.CrossCuttingConcerns.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

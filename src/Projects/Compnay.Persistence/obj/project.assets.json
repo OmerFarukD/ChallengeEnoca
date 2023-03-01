@@ -9373,7 +9373,6 @@
       "Company.Application >= 1.0.0",
       "Company.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.1",
-      "Microsoft.EntityFrameworkCore.Relational >= 6.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "Microsoft.Extensions.Configuration.Abstractions >= 6.0.0"
     ]
@@ -9384,11 +9383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Compnay.Persistence/Compnay.Persistence.csproj",
+      "projectUniqueName": "/home/user/Downloads/ChallengeEnoca/src/Projects/Compnay.Persistence/Compnay.Persistence.csproj",
       "projectName": "Compnay.Persistence",
-      "projectPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Compnay.Persistence/Compnay.Persistence.csproj",
+      "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Compnay.Persistence/Compnay.Persistence.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Compnay.Persistence/obj/",
+      "outputPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Compnay.Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
@@ -9403,11 +9402,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj": {
-              "projectPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj"
+            "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj": {
+              "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj"
             },
-            "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj": {
-              "projectPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj"
+            "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj": {
+              "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj"
             }
           }
         }
@@ -9423,10 +9422,6 @@
         "targetAlias": "net6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Relational": {
             "target": "Package",
             "version": "[6.0.1, )"
           },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iApC9nmA5nqtMDsqTh36K0Ad7lwfD5x6F51xC1b8RclK8JBFco/WNYwDYdBfi+1PCc04q7Z8FevaFMn3jj8zRg==",
+  "dgSpecHash": "B795Gv/YYHxwnB3sQJtI4Q2VcyPnOWBTDyoBASDpOJCGQbCgYiTbKQkAy2DoSGSHffY8QpI6E+/jjUEEUWGqfg==",
   "success": true,
-  "projectFilePath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
+  "projectFilePath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/home/user/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

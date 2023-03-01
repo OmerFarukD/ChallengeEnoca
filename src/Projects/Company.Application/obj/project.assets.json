@@ -8544,11 +8544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
+      "projectUniqueName": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
       "projectName": "Company.Application",
-      "projectPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
+      "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Application/obj/",
+      "outputPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
@@ -8563,11 +8563,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj": {
-              "projectPath": "/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj"
+            "/home/user/Downloads/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj": {
+              "projectPath": "/home/user/Downloads/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj"
             },
-            "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj": {
-              "projectPath": "/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj"
+            "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj": {
+              "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj"
             }
           }
         }
