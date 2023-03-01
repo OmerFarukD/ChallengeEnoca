@@ -1,0 +1,17 @@
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Company.Domain.deps.json
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Company.Domain.dll
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/ref/Company.Domain.dll
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Company.Domain.pdb
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Core.Persistence.dll
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Core.Persistence.pdb
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.csproj.AssemblyReference.cache
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.AssemblyInfoInputs.cache
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.AssemblyInfo.cs
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.csproj.CopyComplete
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.dll
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/ref/Company.Domain.dll
+/home/user/RiderProjects/ChallengeEnoca/src/Projects/Company.Domain/obj/Debug/net6.0/Company.Domain.pdb

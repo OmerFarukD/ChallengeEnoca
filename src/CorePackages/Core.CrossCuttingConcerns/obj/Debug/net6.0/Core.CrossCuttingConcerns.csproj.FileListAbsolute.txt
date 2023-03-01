@@ -1,0 +1,12 @@
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/Core.CrossCuttingConcerns.deps.json
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/ref/Core.CrossCuttingConcerns.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.AssemblyInfo.cs
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/ref/Core.CrossCuttingConcerns.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.CrossCuttingConcerns/obj/Debug/net6.0/Core.CrossCuttingConcerns.pdb

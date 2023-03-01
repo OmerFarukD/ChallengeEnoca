@@ -1,0 +1,15 @@
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.deps.json
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/bin/Debug/net6.0/ref/Core.Persistence.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.Persistence.pdb
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.CrossCuttingConcerns.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/bin/Debug/net6.0/Core.CrossCuttingConcerns.pdb
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.AssemblyReference.cache
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.AssemblyInfoInputs.cache
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.AssemblyInfo.cs
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.csproj.CopyComplete
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/ref/Core.Persistence.dll
+/home/user/RiderProjects/ChallengeEnoca/src/CorePackages/Core.Persistence/obj/Debug/net6.0/Core.Persistence.pdb
