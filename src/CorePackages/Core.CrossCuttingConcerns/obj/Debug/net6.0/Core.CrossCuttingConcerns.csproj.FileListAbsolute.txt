@@ -22,3 +22,15 @@ C:\Users\ÇELİK\Desktop\ÖMercase\ChallengeEnoca\src\CorePackages\Core.CrossCut
 C:\Users\ÇELİK\Desktop\ÖMercase\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
 C:\Users\ÇELİK\Desktop\ÖMercase\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 C:\Users\ÇELİK\Desktop\ÖMercase\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\bin\Debug\net6.0\Core.CrossCuttingConcerns.deps.json
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\omerc\Desktop\Enoca\ChallengeEnoca\src\CorePackages\Core.CrossCuttingConcerns\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll

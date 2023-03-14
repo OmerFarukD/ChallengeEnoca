@@ -7,6 +7,7 @@ public class MappingProfiles : Profile
 {
     public MappingProfiles()
     {
+    
         CreateMap<Domain.Entities.Product, AddProductDto>()
             .ForMember(d=>d.CompanyId,opt=>opt.MapFrom(c=>c.Company.Id))
             .ReverseMap();
@@ -18,7 +19,6 @@ public class MappingProfiles : Profile
         CreateMap<Domain.Entities.Product, GetProductListDto>()
             .ForMember(d=>d.CompanyId,opt=>opt.MapFrom(c=>c.Company.Id))
             .ReverseMap();
-        
         
     }
 }

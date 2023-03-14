@@ -29,7 +29,7 @@ public static class AddOrderCommand
            
             await _orderBusinessRules.IsActiveRule(data.CompanyId);
             
-            await _orderBusinessRules.DatePermission(data.CompanyId,data.Id);
+            await _orderBusinessRules.DatePermission(data.CompanyId);
 
             await _orderRepository.AddAsync(data);
             

@@ -8539,35 +8539,42 @@
     ]
   },
   "packageFolders": {
-    "/home/user/.nuget/packages/": {}
+    "C:\\Users\\omerc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
+      "projectUniqueName": "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\Projects\\Company.Application\\Company.Application.csproj",
       "projectName": "Company.Application",
-      "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/Company.Application.csproj",
-      "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Application/obj/",
+      "projectPath": "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\Projects\\Company.Application\\Company.Application.csproj",
+      "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\Projects\\Company.Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/user/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\omerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/user/Downloads/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj": {
-              "projectPath": "/home/user/Downloads/ChallengeEnoca/src/CorePackages/Core.Persistence/Core.Persistence.csproj"
+            "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\CorePackages\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\CorePackages\\Core.Persistence\\Core.Persistence.csproj"
             },
-            "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj": {
-              "projectPath": "/home/user/Downloads/ChallengeEnoca/src/Projects/Company.Domain/Company.Domain.csproj"
+            "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\Projects\\Company.Domain\\Company.Domain.csproj": {
+              "projectPath": "C:\\Users\\omerc\\Desktop\\Enoca\\ChallengeEnoca\\src\\Projects\\Company.Domain\\Company.Domain.csproj"
             }
           }
         }
@@ -8601,7 +8608,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -8610,7 +8618,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

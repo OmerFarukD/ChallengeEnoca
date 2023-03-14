@@ -42,8 +42,8 @@ public class BaseDbContext : DbContext
             u.Property(p => p.CompanyId).HasColumnName("CompanyId");
             u.Property(p => p.OrderDate).HasColumnName("OrderDate");
             u.Property(p => p.ProductId).HasColumnName("ProductId");
-            u.HasOne(p => p.Product);
-            u.HasOne(p => p.Company);
+            u.HasOne(p => p.Product).WithMany().OnDelete(DeleteBehavior.Restrict);
+            u.HasOne(p => p.Company).WithMany().OnDelete(DeleteBehavior.Restrict);
         });
 
         modelBuilder.Entity<Company.Domain.Entities.Company>(u =>

@@ -123,20 +123,20 @@ namespace Compnay.Persistence.Migrations
                     b.HasOne("Company.Domain.Entities.Company", "Company")
                         .WithMany()
                         .HasForeignKey("CompanyId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.HasOne("Company.Domain.Entities.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
                     b.Navigation("Company");
 
                     b.Navigation("Product");
                 });
-
+            
             modelBuilder.Entity("Company.Domain.Entities.Product", b =>
                 {
                     b.HasOne("Company.Domain.Entities.Company", "Company")

@@ -13,20 +13,15 @@ public static class IsActiveUpdateCommand
     public class Handler: IRequestHandler<Command,string>
     {
         private readonly ICompanyRepository _companyRepository;
-        private readonly IMapper _mapper;
 
-        public Handler(ICompanyRepository companyRepository, IMapper mapper)
+        public Handler(ICompanyRepository companyRepository)
         {
             _companyRepository = companyRepository;
-            _mapper = mapper;
         }
         
         public async Task<string> Handle(Command request, CancellationToken cancellationToken)
         {
-            var data = _mapper.Map<Domain.Entities.Company>(request.UpdateIsActiveDto);
-            
-            await _companyRepository.UpdateAsync(data);
-            
+            await _companyRepository.UpdateIsActive(request.UpdateIsActiveDto);
             return CompanyConstants.CompanyIsActiveUpdateMessage;
         }
         

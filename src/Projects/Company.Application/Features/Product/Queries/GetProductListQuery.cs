@@ -20,11 +20,14 @@ public static class GetProductListQuery
             _productRepository = productRepository;
             _mapper = mapper;
         }
+        
         public async Task<List<GetProductListDto>> Handle(Query request, CancellationToken cancellationToken)
         {
             var data = await _productRepository.GetAllAsync();
 
             return _mapper.Map<List<GetProductListDto>>(data);
         }
+        
     }
+    
 }

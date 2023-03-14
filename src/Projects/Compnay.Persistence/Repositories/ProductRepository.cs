@@ -9,5 +9,6 @@ public class ProductRepository : EfRepositoryBase<Product,BaseDbContext>, IProdu
 {
     public ProductRepository(BaseDbContext context) : base(context)
     {
+
     }
 }
